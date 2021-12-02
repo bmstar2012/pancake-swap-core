@@ -1,2 +1,6 @@
-node_modules/
-build/
+.sconsign.dblite
+/build
+/node_modules
+/cache
+.env
+.idea
